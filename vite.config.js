@@ -4,9 +4,9 @@ import tailwindcss from '@tailwindcss/vite'
 
 // https://vite.dev/config/
 export default defineConfig({
-  base: '',
+  base: '/rental-hub/',
   plugins: [react(),tailwindcss()],
   server: {
-    open: ''
+    open: '/rental-hub/'
   }
 })
