@@ -295,7 +295,8 @@ This project is open source and available under the [MIT License](LICENSE).
 ---
 
 ## 👨‍💻 Author
-
+**Ibrahim Shah(mashu)**
+- GitHub: [@mashuibr](https://github.com/mashuibr)
 **Mohammed Alif**
 - GitHub: [@Mohammed-Alif1](https://github.com/Mohammed-Alif1)
 
@@ -312,7 +313,7 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ## 📧 Support
 
-For support, email your-email@example.com or open an issue in the repository.
+For support, email mashuibr@gmail.com or open an issue in the repository.
 
 ---
 
@@ -330,7 +331,7 @@ For support, email your-email@example.com or open an issue in the repository.
 ---
 
 <div align="center">
-  <p>Made with ❤️ by Mohammed Alif</p>
+  <p>Made with passion By Mashu and Alif</p>
   <p>⭐ Star this repo if you find it helpful!</p>
 </div
 
